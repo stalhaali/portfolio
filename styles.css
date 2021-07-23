@@ -10,7 +10,7 @@ body {
 
 #username {
     color: white;
-    font-size: 2vw;
+    font-size: 4vh;
     font-family: 'Segoe UI Light', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     position: absolute;
@@ -31,8 +31,8 @@ body {
 
 .circular--portrait {
     position: relative;
-    width: 8vw;
-    height: 8vw;
+    width: max(10vw, 10vh);
+    height: max(10vw, 10vh);
     overflow: hidden;
     border-radius: 50%;
   }
@@ -53,7 +53,7 @@ body {
   }
 
 #rectangle{
-    width: 20vw;
+    width: max(20vw, 20vh);
     height: 5vh;
     background: white;
 }
@@ -68,23 +68,23 @@ body {
     padding-top: 0;
     padding-bottom: 20px;
     color: grey;
-    width: 20vw;
+    width: max(20vw, 20vh);
     height: 5vh;
     background: white;
 }
 
 .choose {
-    font-size: 1vw;
+    font-size: 2vh;
     display: block;
     text-align: center;
-    width: 20vw;
-    height: 2vw;
+    width: max(20vw, 20vh);
+    height: max(2vw, 2vh);
 }
 
 @media (max-width: 768px) {
     .circular--portrait {
-        width: 100px;
-        height: 100px;
+        width: 20vh;
+        height: 20vh;
       }
       
     .circular--portrait img {
@@ -97,8 +97,8 @@ body {
     }
 
     #rectangle{
-        width: 200px;
-        height: 25px;
+        width: 40vh;
+        height: 5vh;
         background: white;
     }
     
@@ -108,16 +108,16 @@ body {
     }
     
     .log {
-        width: 200px;
-        height: 25px;
+        width: 40vh;
+        height: 5vh;
     }
     
     .choose {
         font-size: 15px;
         display: block;
         text-align: center;
-        width: 200px;
-        height: 25px;
+        width: 40vh;
+        height: 5vh;
     }
   }
   
