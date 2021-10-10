@@ -13,6 +13,6 @@ I’m also currently a third year student at the University Of Toronto, and aim 
 
 In my free time I love doing calisthenics, playing and watching soccer, and anything related to video games. I also run a youtube channel with my brother, where we upload videos about data visualizations related to sports, that has gained over 3000 subscribers and millions of views. 
 
-If you’d like to contact me, you can reach me through my email: stalhaali1234@gmail.com
+If you’d like to contact me, you can reach me through my email: stalha.ali@mail.utoronto.ca
 
 
